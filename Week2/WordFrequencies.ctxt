@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WordFrequencies
+comment0.text=\n\ \uC5EC\uAE30\uC5D0\ WordFrequencies\ \uD074\uB798\uC2A4\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC2ED\uC2DC\uC624.\n\ \n\ @author\ chanho.jung\n\ @version\ 190407\n
+comment1.params=
+comment1.target=WordFrequencies()
+comment2.params=
+comment2.target=void\ findUnique()
+comment3.params=
+comment3.target=int\ findIndexOfMax()
+comment4.params=
+comment4.target=void\ test()
+numComments=5

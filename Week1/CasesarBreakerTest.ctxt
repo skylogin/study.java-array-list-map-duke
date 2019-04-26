@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CasesarBreakerTest
+comment0.text=\n\ The\ test\ class\ CasesarBreakerTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ halfOfStringTest()
+numComments=4

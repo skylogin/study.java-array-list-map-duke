@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CharactersInPlay
+comment0.text=\n\ \uC5EC\uAE30\uC5D0\ CharactersInPlay\ \uD074\uB798\uC2A4\ \uC124\uBA85\uC744\ \uC791\uC131\uD558\uC2ED\uC2DC\uC624.\n\ \n\ @author\ (\uC791\uC131\uC790\ \uC774\uB984)\ \n\ @version\ (\uBC84\uC804\uBC88\uD638\uB098\ \uB0A0\uC9DC)\n
+comment1.params=
+comment1.target=CharactersInPlay()
+comment1.text=\n\ CharactersInPlay\ \uD074\uB798\uC2A4\uC758\ \uAC1D\uCCB4\ \uC0DD\uC131\uC790\n
+comment2.params=person
+comment2.target=void\ update(java.lang.String)
+comment3.params=
+comment3.target=void\ findAllCharacters()
+comment4.params=num1\ num2
+comment4.target=void\ charactersWithNumParts(int,\ int)
+comment5.params=
+comment5.target=int\ findIndexOfMax()
+comment6.params=
+comment6.target=void\ tester()
+numComments=7
